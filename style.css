@@ -2,3 +2,11 @@ html{
     background-color: rgb(35, 41, 107);
 }
 
+h1{
+    font-size: 55px;
+    text-align: center;
+    color: white;
+    border: 5px solid;
+    border-color: rgb(87, 255, 205);
+    
+}
